@@ -15,7 +15,7 @@ Refer to features.txt and features_info.txt from the original data set for detai
 
 2. Extract x_mean_ord_std from x -- measurements on the mean and standard deviation for each measurement. 
 Only column names containing explicit function names mean() or std() have been included,
-ie. column names such as ***Mean and mean***() have not been included
+ie. column names such as ...Mean and mean...() have not been included
 
 3. Use labels from activity_labels.txt to name the activities in y and combine with subject and x_mean_or_std
 
