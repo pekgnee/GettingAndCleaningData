@@ -13,7 +13,7 @@ The script performs the following processing:
 1. Merge the training and the test sets to create data set x, y and subject
 Refer to features.txt and features_info.txt from the original data set for details on variables in x
 
-2. Extract x_mean_ord_std from x -- measurements on the mean and standard deviation for each measurement. 
+2. Extract x_mean_or_std from x -- measurements on the mean and standard deviation for each measurement. 
 Only column names containing explicit function names mean() or std() have been included,
 ie. column names such as ...Mean and mean...() have not been included
 
