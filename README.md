@@ -7,8 +7,8 @@ run_analysis.R is the script used to process data collected from the acceleromet
 The data is taken from https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 and full description of the data is available at http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
-R package reqiured - dplyr.
-run_analysis.R should be run in the directory containing unzipped Samsung data.
+R package reqiured - dplyr.  
+run_analysis.R should be run in the directory containing the unzipped Samsung data.  
 The script performs the following processing:
 
 1. Merge the training and the test sets to create data set x, y and subject
