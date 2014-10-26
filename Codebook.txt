@@ -1,3 +1,4 @@
+Tidy data set contains the average of each variable (columns 3-68) for each subject and activity.
 Variables in tidy data set
 1. Subject
 2. Activity
